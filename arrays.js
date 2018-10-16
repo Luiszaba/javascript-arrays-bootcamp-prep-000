@@ -11,5 +11,5 @@ function addElementToBeginningOfArray (chocolateBars,newElement){
 }
 
 function addElementToBeginningOfArray(chocolateBars, newElement){
-  return [chocolateBars,...newElement(0)]
+  return [chocolateBars,...newElement]
 }
