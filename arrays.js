@@ -10,5 +10,5 @@ function desturctivelyAddElementToBeginningOfArray(array, element) {
 }
 
 function desturctivelyAddElementToBeginningOfArray(array, element) {
-  array.push
+  array.push(element)
 }
