@@ -4,7 +4,7 @@ function addElementToBeginningOfArray (foo) {
   var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 }
 
-function destructivelyAddElementToBeggingOfArray(foo) {
+function destructivelyAddElementToBeggingOfArray(MMs) {
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
   
 }
