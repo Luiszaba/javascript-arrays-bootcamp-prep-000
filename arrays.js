@@ -4,4 +4,7 @@ function addElementToBeginningOfArray (){
   
 }
 
-function addElementToBeginningOfArray ()
+function addElementToBeginningOfArray () {
+  array.unshift ("foo")
+
+}
