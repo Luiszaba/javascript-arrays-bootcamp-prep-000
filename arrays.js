@@ -4,6 +4,5 @@ function addElementToBeginningOfArray (array, element) {
 }
 
 
-function addElementToBeginningOfArray([foo], [1]){
-return 
+function addElementToBeginningOfArray(array, element){
 }
