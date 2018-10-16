@@ -10,3 +10,6 @@ function addElementToBeginningOfArray (chocolateBars,newElement){
   return chocolateBars
 }
 
+function addElementToBeginningOfArray(chocolateBars, newElement){
+  
+}
