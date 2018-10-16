@@ -9,3 +9,8 @@ function addElementToBeginningOfArray (chocolateBars,newElement){
   chocolateBars.unshift(newElement)
   return chocolateBars
 }
+
+function addElementToBeginningOfArray(chocolateBars, newElement){
+  const chocolateBars
+  
+}
