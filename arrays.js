@@ -1,9 +1,12 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
+var phephiphofump = ["break", "Fix", "Create"]
 
-function addElementToBeginningOfArray (foo) {
+function addElementToBeginningOfArray ([phephiphofump], foo) {
+
   
 }
 
-function addElementToBeginningOfArray (array, foo) {
-  var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
+function destructivlyAddElementToBeginningOfArray ([phephiphofump], ){
+
+  
 }
