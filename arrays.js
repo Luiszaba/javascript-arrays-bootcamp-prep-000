@@ -4,7 +4,6 @@ function addElementToBeginningOfArray (array, element) {
 }
 
 
-function addElementToBeginningOfArray(array, element){
-
-  array.unshift('foo')
+function addElementToBeginningOfArray(array, [1]) {
+  array.unshift([1])
 }
